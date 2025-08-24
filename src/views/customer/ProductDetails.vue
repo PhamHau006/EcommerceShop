@@ -1009,7 +1009,7 @@ watch(
         <!-- Product Details Section End -->
       </div>
       <div v-else class="text-center py-5 ">
-        <div class="row justify-content-center align-items-center" style="height: 50vh;">          
+        <div class="row justify-content-center align-items-center" style="height: 50vh;">
           <div class="col-12">
             <i class="fas fa-box-open fa-4x text-muted mb-3"></i>
             <h3 class="text-muted">Sản phẩm không tồn tại</h3>
