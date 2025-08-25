@@ -843,7 +843,7 @@ watch(
                           ($event.target.style.color = 'red'))
                       ">
                       <i class="fas fa-heart" style="margin-right: 4px; color: red"></i>
-                      {{ isFavorited ? 'Đã thích' : 'Yêu thích' }} ({{ favoriteCount || 0 }})
+                      {{ isFavorited ? 'Đã thích' : 'Yêu thích' }} 
                     </button>
 
                     <!-- Nút So sánh -->
